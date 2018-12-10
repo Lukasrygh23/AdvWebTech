@@ -6,7 +6,7 @@
  
   | &nbsp;
   
-   <a href="${pageContext.request.contextPath}/userInfo">User Info</a>
+   <a href="${pageContext.request.contextPath}/userInfo">Accidents</a>
   
   | &nbsp;
   
